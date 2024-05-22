@@ -5,6 +5,7 @@ use on [Vercel](https://vercel.com/docs/functions/runtimes/go).
 
 ## Supported Webhook Events
 
+- [`ping`](https://docs.github.com/en/webhooks/webhook-events-and-payloads#ping)
 - [`push`](https://docs.github.com/en/webhooks/webhook-events-and-payloads#push)
 
 ## Setup
